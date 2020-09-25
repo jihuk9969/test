@@ -76,7 +76,7 @@
 		- 이벤트
 			- SDL_QUIT
 			- 키보드 입력
-
+<br>
 	- ![StateDiagram](/termPrj/StateDiagram.png "StateDiagram")
 
 	
